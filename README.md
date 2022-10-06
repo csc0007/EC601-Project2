@@ -7,6 +7,7 @@ Minus changes were made to run this program.
 The program achieved post retrieve from @Twitter_Dev in seven days.
 
 Program result consist of author_id, edit_history_tweet_ids, id, text for each tweet. At the end of result, total count of tweets was returned with IDs.
+
 Program Result:
 200
 {
